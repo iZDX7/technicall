@@ -1,0 +1,29 @@
+ID,Name,Age,Department,Salary,Join_Date,City,Email,Experience_Years
+3,Mohammed,,IT,$6,000,2018-06-22,Riyadh,mohammed@company.com,5 yrs
+4,Fatima,35 yrs,Finance,$7,500,,Dammam,fatima@company.com,6 yrs
+5,Khalid,42,Management,$15,000,2015-11-05,,khalid@company.com,12 yrs
+6,Noura,26,Marketing,$4,500,2021-07-30,Riyadh,noura@company.com,2 yrs
+7,Ahmed,30,Sales,$5,000,2020-01-15,Riyadh,ahmed@company.com,3 yrs
+8,Yousef,31,Sales,$5,200,2019-09-14,Jeddah,yousef@company.com,4 yrs
+9,Sara,28,HR,$4,800,2019-03-10,Jeddah,sara@company.com,4 yrs
+10,Layla,29,IT,$5,800,2020-02-18,Riyadh,,4 yrs
+11,Omar,33,Finance,$7,000,2017-08-12,Dammam,omar@company.com,6 yrs
+12,Hana,27,HR,$4,600,2020-11-03,Jeddah,hana@company.com,3 yrs
+13,Mohammed,45,IT,$6,500,2018-06-22,Riyadh,mohammed@company.com,5 yrs
+14,Nasser,38,Management,$9,500,2016-04-25,Riyadh,nasser@company.com,7 yrs
+15,Amal,32,Marketing,$4,700,2019-12-08,,amal@company.com,4 yrs
+16,Faisal,29,Sales,$5,100,2020-05-19,Jeddah,faisal@company.com,3 yrs
+17,Reem,31,HR,$4,900,2018-10-22,Jeddah,reem@company.com,5 yrs
+18,Ahmed,30,Sales,$5,000,2020-01-15,Riyadh,ahmed@company.com,3 yrs
+19,Khaled,40,Finance,$7,200,2017-03-30,Dammam,khaled@company.com,6 yrs
+20,Nora,26,,4500 SAR,2021-09-14,Riyadh,nora@company.com,2 yrs
+21,Majed,34,IT,$6,200,2018-01-17,Riyadh,majed@company.com,5 yrs
+22,Sara,28,HR,$4,800,2019-03-10,Jeddah,sara@company.com,4 yrs
+23,Hassan,37,Management,$9,800,,Riyadh,hassan@company.com,9 yrs
+24,Lama,28,Marketing,$4,550,2020-08-11,Jeddah,lama@company.com,3 yrs
+25,Sultan,31,Sales,$5,300,2019-07-24,Jeddah,sultan@company.com,4 yrs
+26,Aisha,33,HR,$5,000,2018-05-16,Riyadh,aisha@company.com,5 yrs
+27,Badr,29,IT,$5,900,2020-03-09,,badr@company.com,4 yrs
+28,Ali,22,Intern,$1,200,2023-01-10,Riyadh,ali@company.com,0 yrs
+29,Salem,58,Management,$25,000,2005-02-01,Riyadh,salem@company.com,30 yrs
+30,Maha,,IT,-$3,000,2022-06-01,Jeddah,maha@company.com,1 yr
